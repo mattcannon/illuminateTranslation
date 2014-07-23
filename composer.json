@@ -1,0 +1,14 @@
+{
+    "name": "mattcannon/localisation",
+    "description": "Example project showing how to use the laravel localisation module outside of laravel",
+    "require": {
+        "illuminate/translation": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Cannon",
+            "email": "matt@methodandclass.com"
+        }
+    ]
+}
