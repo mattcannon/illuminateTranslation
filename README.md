@@ -68,5 +68,6 @@ You should then be able to use the localiser by calling get on the instance, pas
         </em>
     </p>
     
-##Example project
+##Example Project
 
+There is an example project showing this in use at (github.com/mattcannon/illuminateTranslation)[https://github.com/mattcannon/illuminateTranslation]
