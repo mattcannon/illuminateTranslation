@@ -1,4 +1,4 @@
-#Using Laravel&lsquo;s localisation component outside of laravel
+#Using Laravel&rsquo;s localisation component outside of laravel
 
 Using the Illuminate/translator module independently from laravel is surprisingly straightforward.
 
